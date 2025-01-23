@@ -1,0 +1,8 @@
+gradio
+transformers
+datasets
+sentencepiece
+langchain
+langchain-community
+openai==0.28
+torch
